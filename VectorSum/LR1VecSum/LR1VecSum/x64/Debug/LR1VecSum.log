@@ -1,0 +1,2 @@
+﻿  LR1.cpp
+D:\GitCode\SU-HPC-Fall-2024\VectorSum\LR1VecSum\LR1VecSum\LR1.cpp(5,10): fatal error C1083: Не удается открыть файл включение: cuda_runtime.h: No such file or directory,
